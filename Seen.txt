@@ -1,0 +1,7 @@
+@DetectionMood Today is indeed a day
+@DetectionMood I am feeling sad
+@DetectionMood This makes me so mad
+@DetectionMood I am angry
+@DetectionMood I am happy
+@DetectionMood I had a good day!
+@DetectionMood I had a really bad day
